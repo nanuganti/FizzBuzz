@@ -1,11 +1,11 @@
 # FizzBuzz
 
-To run locally 
+### To run locally 
 ```
 npm install 
 npm start
 ```
-## To test 
+### To test 
 ```
 npm test 
 ```
