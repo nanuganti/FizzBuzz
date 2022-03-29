@@ -1,0 +1,11 @@
+{
+  "name": "fizz-buzz-app",
+  "version": "1.0.0",
+  "devDependencies": {
+    "jest": "^27.5.1"
+  },
+  "scripts": {
+    "start": "node app.js",
+    "test": "jest --testPathPattern=\"(/__tests__/.*)\""
+  }
+}
